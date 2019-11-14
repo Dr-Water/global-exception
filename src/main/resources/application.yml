@@ -1,0 +1,5 @@
+# tomcat
+server:
+  servlet:
+    context-path: /ratel
+  port: 8020
